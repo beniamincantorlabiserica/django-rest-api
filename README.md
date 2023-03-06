@@ -1,11 +1,11 @@
 # Django RESTFUL API
 
 This app implements endpoints in django using django rest framework. The following endpoints are available:
-[x] GET
-[x] GET/id
-[x] POST
-[x] PUT
-[x] DELETE
+> GET
+> GET/id
+> POST
+> PUT
+> DELETE
 
 The object is a Note which has:
 - body 
